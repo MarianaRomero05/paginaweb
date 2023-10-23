@@ -1,0 +1,388 @@
+body {
+    background: #FCFC1A;
+    background: -moz-linear-gradient(centro, #FCFC1A 0%, #E203C5 50%, #16D8D7 100%);
+    background: -webkit-linear-gradient(centro, #FCFC1A 0%, #E203C5 50%, #16D8D7 100%);
+    background: linear-gradient(to right, #FCFC1A 0%, #E203C5 50%, #16D8D7 100%);
+}
+div#father {
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 300%;
+    color: hsl(172, 100%, 51%);
+    text-shadow: 1px 2px 2px #FF0000;
+    border-bottom: 2px ridge #FFFFFF;
+    
+}
+div#mascotas {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #fa2626;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+}
+div.ic img{
+    width:95%;
+    border: 2px dashed #1206eb;
+    
+    
+}
+
+div#nuevo {
+    display: flex;
+    width: 100%;
+    
+}
+
+div.tc p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#nv {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+}
+ 
+div.ib img {
+    display: flex;
+    width: 95%;
+    border: 2px dashed #ff0909;
+}
+div.tb p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+    
+div#mb {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #FF10FD;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    display: flex;
+    flex-direction: 
+    row-reverse;
+}
+
+div#nd {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #120774;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+}
+
+div#ne {
+    display: flex;
+    width: 100%;
+}
+
+div.id img{
+    width: 95%;
+    border: 2px dashed #bd0bee;
+}
+
+div.td p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#nn {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #10ff38;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    display: flex;
+    flex-direction: 
+    row-reverse;
+}
+ div#no {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+ }
+ div.in img {
+    display: flex;
+    width: 95%;
+    border: 2px dashed #f7e204;
+ }
+ div.tn p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#ng {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #025049;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+}
+div#ot {
+    display: flex;
+    width: 100%;
+}
+div.ig img{
+    width: 95%;
+    border: 2px dashed #06d1f5;
+}
+div.tg p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#ni {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #e7ff10;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    display: flex;
+    flex-direction: 
+    row-reverse;
+}
+div#tr {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+}
+div.iv img {
+    display: flex;
+    width: 110%;
+    border: 2px dashed #f16901;
+}
+div.tv p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#nm {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #025049;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+}
+div#tp {
+    display: flex;
+    width: 100%;
+}
+div.im img{
+    width: 95%;
+    border: 2px dashed #f80707;
+}
+div.tm p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#nu {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #ff7c10;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    display: flex;
+    flex-direction: 
+    row-reverse;
+}
+div#rs {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+}
+div.iu img {
+    display: flex;
+    width: 110%;
+    border: 2px dashed #f704c6;
+}
+div.tu p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#nr {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #ca043f;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+}
+div#es {
+    display: flex;
+    width: 70%;
+}
+div.ie img{
+    width:90%;
+    border: 2px dashed #2900f7;
+}
+div.te p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 180%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
+
+div#nc {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 200%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #10ff4c;
+    font-weight: 400;
+    text-decoration: none;
+    font-style: italic;
+    font-variant: normal;
+    text-transform: none;
+    display: flex;
+    flex-direction: 
+    row-reverse;
+}
+div#lm {
+    display: flex;
+    flex-direction: row-reverse;
+    width: 100%;
+}
+div.ia img {
+    display: flex;
+    width: 110%;
+    border: 2px dashed #fac003;
+}
+div.tc p{
+    font-family: "Times New Roman", Patino, serif;
+    font-size: 150%;
+    letter-spacing: 2px;
+    word-spacing: 2px;
+    color: #030303;
+    font-weight: normal;
+    text-decoration: none;
+    font-style: normal;
+    font-variant: normal;
+    text-transform: none;
+    text-align: justify;
+}
